@@ -4,3 +4,8 @@
     height: auto;
     margin-left: 15px; 
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
