@@ -1,0 +1,6 @@
+.container img {
+    float: right;
+    width: 400px;
+    height: auto;
+    margin-left: 15px; 
+}
